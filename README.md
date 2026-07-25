@@ -78,6 +78,12 @@ A **revolver-style dispensing mechanism**:
 3. Servo motor rotates the drum 45° at a time to align each compartment
 4. Gravity drops the pill once aligned
 5. IR sensor confirms the pill has fallen
+   
+## Hardware Setup
+
+| Circuit Interfacing & Sensor Testing | Final Assembled Prototype |
+|---|---|
+| ![Circuit](hardware/circuit-interfacing.jpg) | ![Prototype](hardware/final-prototype.jpg) |
 
 ## Screenshots
 
